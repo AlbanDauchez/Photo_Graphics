@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PhotoGraphics.fr</title>
+</head>
+<body>
+    <!-- Un élément vide où l'image sera insérée -->
+    <div id="zoneImage"></div>
+
+    <script>
+        // Utilisation de innerHTML pour insérer une balise <img> dans l'élément avec l'ID 'zoneImage'
+        document.getElementById("zoneImage").innerHTML = '<img src="https://diaryphotocom.wordpress.com/wp-content/uploads/2024/07/zoom-sur-un-objectif-dappareil-photo-2.png" alt="Exemple d\'image" width="40" height="30">';
+  </script>
+  </script>
+  <p style="font-size: 20px;">
+        Photo Graphics
+  <p style="font-size 15px;"> 
+        Bienvenue sur Photo Graphics, un site de photo gratuit créé par un enfant passionné de  photo et d'informatique.
+  </script>
+  </script> 
+  <p style="font-size: 13px;">
+    <br>Voici ma première exposition, intitulée Citadines, de ses lieux de prises de vues, situés au coeur de Strasbourg.
+Créée sur un coup de tête totalement inattendu, c’est une série de photos dont vous devrez deviner chacune l’endroit et l’objet. Certaines sont plus difficiles que d’autres, et certaines ne peuvent être trouvées qu’en connaissant (bien) la ville.
+Tous les clichés de cette exposition ont été réalisés sans le zoom numérique, c'est-à-dire très près des objets immortalisés.
+</script>
+</script>
+    <img src="https://i.imgur.com/B1AOsX0.jpeg" width="200" height="150"><img src="https://i.imgur.com/brlaBLB.jpeg" width="200" height="150"><img src="https://i.imgur.com/oQiheeJ.jpeg" width="200" height="150"><img src="https://i.imgur.com/IsUQHRJ.jpeg" width="200" height="150"><img src="https://i.imgur.com/rOikilw.jpeg" width="200" height="150"><img src="https://i.imgur.com/YvYNzVC.jpeg" width="200" height="150"><img src="https://i.imgur.com/SUgreiP.jpeg" width="200" height="150"><img src="https://i.imgur.com/rtd3qEf.jpeg" width="200" height="150"><img src="https://i.imgur.com/GbUzOlq.jpeg" width="200" height="150"><img src="https://i.imgur.com/1ZSa7DC.jpeg" width="200" height="150"><img src="https://i.imgur.com/2OetaXt.jpeg" width="200" height="150"><img src="https://i.imgur.com/1mq31FA.jpeg" width="200" height="150"><img src="https://i.imgur.com/PgD0Fsv.jpeg" width="200" height="150">
+</script>
+</script>
+<p style="font-size 13px;">
+  <a href="https://codepen.io/Billy_Photo/full/jOjdPwv">Voir plus de Photo Graphics</a>
+  
+
+<br><p style="font-size 2px">© Copyright Alban Dauchez
+    
+          
+</body>
+</html>
